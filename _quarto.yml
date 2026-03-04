@@ -1,0 +1,22 @@
+project:
+  type: sdca-theme
+
+website:
+  # TODO: Set the title of the website
+  title: ""
+  site-url: "https://steno-aarhus.github.io/comp-dm/"
+  repo-url: "https://github.com/steno-aarhus/comp-dm"
+  navbar:
+    pinned: true
+    left:
+      - text: "Welcome"
+        href: index.qmd
+    tools:
+      - icon: github
+        href: "https://github.com/steno-aarhus/comp-dm"
+        aria-label: "GitHub icon: Source repository"
+  sidebar:
+    contents:
+      - index.qmd
+
+format: sdca-theme-html
