@@ -3,7 +3,7 @@ project:
 
 website:
   # TODO: Set the title of the website
-  title: ""
+  title: "COMP-DM: Cognitive Function, Multimorbidity Progression and Diabetes"
   site-url: "https://steno-aarhus.github.io/comp-dm/"
   repo-url: "https://github.com/steno-aarhus/comp-dm"
   navbar:
