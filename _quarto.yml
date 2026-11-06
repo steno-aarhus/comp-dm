@@ -8,9 +8,15 @@ website:
   repo-url: "https://github.com/steno-aarhus/comp-dm"
   navbar:
     pinned: true
+
     left:
       - text: "Welcome"
         href: index.qmd
+      - text: "The team"
+        href: team.qmd
+      - text: "Contact us"
+        href: contact.qmd
+        
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/comp-dm"
