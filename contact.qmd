@@ -1,0 +1,6 @@
+---
+title: "Contact us"
+---
+
+If you have questions about COMP-DM or are interested in collaborating,
+please email **jiezh@clin.au.dk**.
