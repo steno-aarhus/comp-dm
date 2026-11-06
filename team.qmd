@@ -1,0 +1,9 @@
+---
+title: "The team"
+---
+
+COMP-DM is based at Steno Diabetes Center Aarhus. Our team studies how diabetes
+and other long-term health conditions relate to cognitive function over time.
+
+- **Anders Prior** ·PI, Department of Public Health - Research Unit for General Practice
+- **Daniel Witte** · Co-PI, Steno Diabetes Center Aarhus, Aarhus University Hospital
