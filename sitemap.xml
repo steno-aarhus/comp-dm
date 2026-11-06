@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://steno-aarhus.github.io/comp-dm/index.html</loc>
-    <lastmod>2026-11-06T10:22:08.634Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/comp-dm/team.html</loc>
-    <lastmod>2026-11-06T10:22:08.634Z</lastmod>
+    <lastmod>2026-11-06T10:23:17.701Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/comp-dm/LICENSE.html</loc>
-    <lastmod>2026-11-06T10:22:08.630Z</lastmod>
+    <lastmod>2026-11-06T10:23:17.696Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/comp-dm/team.html</loc>
+    <lastmod>2026-11-06T10:23:17.701Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/comp-dm/contact.html</loc>
+    <lastmod>2026-11-06T10:23:17.701Z</lastmod>
   </url>
 </urlset>
